@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Email-Threat-Analysis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Threat-Analysis?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Email-Threat-Analysis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Threat-Analysis?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Email-Threat-Analysis/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Email-Threat-Analysis?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Email-Threat-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Email-Threat-Analysis?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,7 +63,7 @@ Below is a comparative breakdown of leading enterprise SaaS platforms for email 
 
 The open-source ecosystem provides essential frameworks for DFIR (Digital Forensics and Incident Response), self-hosted gateway filtering, header analysis, and phishing simulation. 
 
-Below is the list of top open-source email security repositories, **sorted by GitHub star count (descending)**.
+Below is the list of top open-source email security repositories, **sorted by GitHub Stars_Count (descending)**.
 
 1. 🎯 **[GoPhish](https://github.com/gophish/gophish)** <a href="https://github.com/gophish/gophish/stargazers"><img src="https://img.shields.io/github/stars/gophish/gophish?style=social&color=white" alt="Stars"/></a>
    * Open-source phishing framework designed for security awareness training, threat simulation, and testing organizational email security posture.
@@ -116,7 +116,7 @@ Contributions from the cybersecurity community are warmly welcomed!
 1. **Fork** the repository on GitHub.
 2. Create a feature branch (`git checkout -b feature/new-email-tool`).
 3. Add or update tool listings in `README.md` following the established format.
-4. Ensure SaaS tools include pricing details & free trial limits, and Open-Source repos include GitHub star badges.
+4. Ensure SaaS tools include pricing details & free trial limits, and Open-Source repos include GitHub Stars_Badges.
 5. Submit a **Pull Request** with a clear explanation of your additions.
 
 Check out the [Awesome List Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for quality standards.
@@ -136,7 +136,7 @@ If you find this email threat analysis directory valuable for your SOC team, DFI
 ## ⚖️ Disclaimer
 
 * This repository is a community-curated directory intended for educational, research, and security defense purposes.
-* Product metrics (valuations, pricing, star counts) reflect publicly available data as of late 2026 and may evolve over time.
+* Product metrics (valuations, pricing, Stars_Counts) reflect publicly available data as of late 2026 and may evolve over time.
 * Ensure organizational compliance with local privacy laws and email retention guidelines when deploying threat analysis tools on production mailboxes.
 
 ---
